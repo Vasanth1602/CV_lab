@@ -1,5 +1,5 @@
 % Read the input image
-filename = "C:\Users\vasan\Downloads\Harris.jpg";
+filename = "C:\Users\vasan\Downloads\ab0fc1334c6ed4f1a3860c21d199cd98.jpg";
 img = imread(filename);
 figure, imshow(img), title('Original Image');
 % Convert to grayscale
